@@ -7,4 +7,7 @@
    <FileRef
       location = "group:Story/Story.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:DatePlanner/DatePlanner.xcodeproj">
+   </FileRef>
 </Workspace>
