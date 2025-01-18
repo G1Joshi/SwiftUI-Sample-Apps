@@ -19,4 +19,7 @@
    <FileRef
       location = "group:ImageGallery/ImageGallery.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Journal/Journal.xcodeproj">
+   </FileRef>
 </Workspace>
