@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ColorGrid/ColorGrid.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AboutMe/AboutMe.xcodeproj">
    </FileRef>
    <FileRef
