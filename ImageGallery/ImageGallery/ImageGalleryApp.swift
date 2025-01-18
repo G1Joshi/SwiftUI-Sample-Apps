@@ -2,9 +2,15 @@ import SwiftUI
 
 @main
 struct ImageGalleryApp: App {
+    @StateObject var dataModel = DataModel()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                GridView()
+            }
+            .environmentObject(dataModel)
+            .navigationViewStyle(.stack)
         }
     }
 }
