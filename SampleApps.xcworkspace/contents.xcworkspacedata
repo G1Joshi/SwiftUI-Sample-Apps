@@ -16,4 +16,7 @@
    <FileRef
       location = "group:SymbolGrid/SymbolGrid.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:ImageGallery/ImageGallery.xcodeproj">
+   </FileRef>
 </Workspace>
