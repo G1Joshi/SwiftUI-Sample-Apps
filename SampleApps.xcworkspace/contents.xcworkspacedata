@@ -25,4 +25,7 @@
    <FileRef
       location = "group:MemeCreator/MemeCreator.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:BubbleLevel/BubbleLevel.xcodeproj">
+   </FileRef>
 </Workspace>
