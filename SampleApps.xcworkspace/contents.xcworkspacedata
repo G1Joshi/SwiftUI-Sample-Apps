@@ -40,4 +40,7 @@
    <FileRef
       location = "group:Camera/Camera.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:RPS/RPS.xcodeproj">
+   </FileRef>
 </Workspace>
