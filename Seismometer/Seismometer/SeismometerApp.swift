@@ -4,7 +4,7 @@ import SwiftUI
 struct SeismometerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SeismometerBrowser()
         }
     }
 }
