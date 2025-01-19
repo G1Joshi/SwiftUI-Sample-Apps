@@ -22,4 +22,7 @@
    <FileRef
       location = "group:Journal/Journal.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:MemeCreator/MemeCreator.xcodeproj">
+   </FileRef>
 </Workspace>
