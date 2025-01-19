@@ -37,4 +37,7 @@
    <FileRef
       location = "group:AnimatingShapes/AnimatingShapes.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Camera/Camera.xcodeproj">
+   </FileRef>
 </Workspace>
