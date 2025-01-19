@@ -31,4 +31,7 @@
    <FileRef
       location = "group:Seismometer/Seismometer.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Gestures/Gestures.xcodeproj">
+   </FileRef>
 </Workspace>
